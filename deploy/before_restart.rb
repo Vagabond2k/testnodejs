@@ -1,1 +1,1 @@
-exec "#{release_path}" + "test/test.sh"
+exec "#{release_path}" + "/test/test.sh"
